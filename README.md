@@ -55,10 +55,6 @@ Use clearly structured academic PDFs or well-formatted notes for better quiz qua
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. Use it freely, adapt it, and share improvements!
-
 ---
 
 ## Credits
