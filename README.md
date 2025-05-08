@@ -20,7 +20,7 @@ This app:
 
 ---
 
-## 🛠 Installation
+## Installation
 
 Make sure you have Python 3.8+ installed, then run:
 
